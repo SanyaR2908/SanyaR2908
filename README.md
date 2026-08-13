@@ -14,7 +14,7 @@ I'm an Electronics and Communication Engineering student interested in building 
 
 ### 🛠️ Technical Skills
 
-**Languages:** Python, Java, C++, SQL
+**Languages:** Python, Java, SQL
 
 **AI/ML & Data:** Machine Learning, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
