@@ -1,4 +1,4 @@
-# Hi, I'm Sanya Ray 👋
+# Hi, I'm Sanya Ray 
 
 🎓 B.Tech ECE Student | 💻 Python | AI/ML | Data Analysis | DSA & Problem Solving
 
